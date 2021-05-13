@@ -1,0 +1,32 @@
+{
+  "name": "graphqlyoga-mongodb-example",
+  "version": "1.0.0",
+  "description": "a simple graphqlypga mongo api",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedalhindi/GraphqlYoga-Mongodb-Example.git"
+  },
+  "keywords": [
+    "mongo",
+    "mongoose",
+    "graphql",
+    "gql",
+    "yoga",
+    "graphql-yoga",
+    "api",
+    "example"
+  ],
+  "author": "ahmedlahindi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedalhindi/GraphqlYoga-Mongodb-Example/issues"
+  },
+  "homepage": "https://github.com/ahmedalhindi/GraphqlYoga-Mongodb-Example#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
